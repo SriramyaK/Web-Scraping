@@ -1,2 +1,2 @@
 # Web-Scraping
-Web scraping using Beautiful soup, lxml, selenium and request libraries
+Notebooks include implementation of Web scraping using Python Beautiful soup, lxml, selenium and request libraries
